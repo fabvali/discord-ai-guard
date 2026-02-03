@@ -49,3 +49,11 @@ pip install -r requirements.txt
 
 ```bash
 python3 main.py
+```
+
+<h3 align="center">☕ Support My Work</h3>
+<div align="center">
+  <a href="https://ko-fi.com/nevika">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me%20%E2%98%95%EF%B8%8F-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Ko-fi" height="40">
+  </a>
+</div>
